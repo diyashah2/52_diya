@@ -1,0 +1,1 @@
+print("Git allows you to easily go back to previous versions of your code, which is helpful for troubleshooting issues or undoing mistakes. ")
