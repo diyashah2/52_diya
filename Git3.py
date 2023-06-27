@@ -1,0 +1,1 @@
+print("Git makes it easy for multiple developers to work together by simplifying the process of combining their changes and resolving any conflicts that may arise. ")
